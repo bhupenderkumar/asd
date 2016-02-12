@@ -1,0 +1,1 @@
+create table algo(Question varchar(1000),answer varchar(1000));
